@@ -166,9 +166,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 /* Header Section */
 .intro {
 	display: table;
-	width: 100%;
+	width:100%;
 	padding: 0;
-	background: url(../img/intro-bg.jpg) center center no-repeat;
+	background: url(../img/K-1.jpg) center center no-repeat;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -177,6 +177,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro .overlay {
 	background: rgba(0,0,0,0.4);
+	width:100%;
 }
 .intro h1 {
 	color: #fff;
@@ -199,6 +200,7 @@ header .intro-text {
 	padding-bottom: 50px;
 	text-align: center;
 }
+
 /* Features Section */
 #features {
 	padding: 120px 0;
